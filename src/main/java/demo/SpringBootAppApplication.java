@@ -1,4 +1,5 @@
 package demo;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -6,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootAppApplication {
 
     public static void main(String[] args) {
-    	SpringApplication.run(SpringBootAppApplication.class, args);
+	SpringApplication.run(SpringBootAppApplication.class, args);
     }
+
 }
